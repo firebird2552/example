@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/firebird2552/example/issues"
   },
-  "homepage": "https://github.com/firebird2552/example#readme"
+  "homepage": "https://github.com/firebird2552/example#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
 }
